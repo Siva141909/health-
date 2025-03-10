@@ -1,4 +1,3 @@
-
 # Virtual Health Assistant: Revolutionizing Healthcare Access
 
 ## Project Overview
@@ -89,7 +88,10 @@ This project was presented at **TeckZite’25** under the theme **Building AI Ag
 
 ---
 
-Thank you for exploring the Virtual Health Assistant. We are committed to transforming healthcare access and improving lives through innovative technology.
+## Call to Action
+
+Ready to take control of your health? Visit [Virtual Health Assistant](https://health-partner.netlify.app/) today and experience the future of healthcare management. Whether you're looking for accurate medical guidance, personalized health plans, or seamless appointment scheduling, our platform is here to empower you every step of the way. Don't wait—start your journey to better health now!
 
 ---
 
+Thank you for exploring the Virtual Health Assistant. We are committed to transforming healthcare access and improving lives through innovative technology.
