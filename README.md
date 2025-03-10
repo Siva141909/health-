@@ -1,3 +1,7 @@
+Here’s the updated **README.md** file with the team members' contact information (email, mobile number, and LinkedIn profiles) added under the **Team** section:
+
+---
+
 # Virtual Health Assistant: Revolutionizing Healthcare Access
 
 ## Project Overview
@@ -62,10 +66,25 @@ The Virtual Health Assistant is now live and accessible at [https://health-partn
 
 ## Team
 
-- **A. Sree Harsha**
-- **A. Siva Teja Reddy**
-- **S. V. Bindu Sathwika**
-- **I. Santhosh Kumar**
+- **A. Sree Harsha**  
+  - **Email**: [sreeharshaalapati@gmail.com](mailto:sreeharshaalapati@gmail.com)  
+  - **Phone**: +91 9502161254  
+  - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sree-harsha-alapati-01102k5)  
+
+- **A. Siva Teja Reddy**  
+  - **Email**: [rasivateja@gmail.com](mailto:rasivateja@gmail.com)  
+  - **Phone**: +91 7207364460  
+  - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/siva-teja-reddy-annapureddy)  
+
+- **I. Santhosh Kumar**  
+  - **Email**: [itlasanthoshkumar@gmail.com](mailto:itlasanthoshkumar@gmail.com)  
+  - **Phone**: +91 6305877692  
+  - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/santhosh-kumar-002810291)  
+
+- **S. V. Bindu Sathwika**  
+  - **Email**: [svbsathwika2006@gmail.com](mailto:svbsathwika2006@gmail.com)  
+  - **Phone**: +91 6303112330  
+  - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/s-v-bindu-sathwika-69353b282)  
 
 ## Event
 
@@ -74,3 +93,6 @@ This project was presented at **TeckZite’25** under the theme **Building AI Ag
 ---
 
 Thank you for exploring the Virtual Health Assistant. We are committed to transforming healthcare access and improving lives through innovative technology.
+
+---
+
