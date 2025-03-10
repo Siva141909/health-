@@ -1,6 +1,3 @@
-Here’s the updated **README.md** file with the team members' contact information (email, mobile number, and LinkedIn profiles) added under the **Team** section:
-
----
 
 # Virtual Health Assistant: Revolutionizing Healthcare Access
 
